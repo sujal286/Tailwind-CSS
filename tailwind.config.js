@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./dist/*.html"],
+  content: ["./FLIPKART-CLONE/*.html"],
   theme: {
     extend: {},
   },
